@@ -1,6 +1,6 @@
 ##Fizzbuzz
 
-####This is a ruby method for solving [fizzbuzz]()
+####This is a ruby method for solving [fizzbuzz](http://en.wikipedia.org/wiki/Fizz_buzz)
 
 To use it just copy the code from the lib/fizzbuzz.rb file and paste it into a ruby client ([Here's a link](http://www.learnhowtoprogram.com/lessons/installing-ruby) that helped me install ruby on my machine). Then type 'fizzbuzz(your-number-here)' in the client.
 
